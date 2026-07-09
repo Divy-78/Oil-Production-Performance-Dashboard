@@ -1,0 +1,7 @@
+well_id,field,formation,start,qi,decline,gas_ratio,water_start,completion_type,lateral_length_ft,proppant_lb_ft
+EXM-PB-101,Permian North,Wolfcamp A,2024-01-01,820,0.0016,950,0.18,Horizontal Hz,9800,1850
+EXM-PB-102,Permian North,Wolfcamp B,2024-01-15,760,0.0014,880,0.22,Horizontal Hz,10250,1750
+EXM-PB-103,Permian South,Spraberry,2024-02-01,690,0.0011,760,0.15,Horizontal Hz,9100,1600
+EXM-PB-104,Permian South,Wolfcamp A,2024-03-10,910,0.0018,1040,0.25,Horizontal Hz,10600,1900
+EXM-PB-105,Permian Central,Bone Spring,2024-04-01,580,0.001,700,0.2,Horizontal Hz,8700,1500
+EXM-PB-106,Permian Central,Wolfcamp C,2024-05-01,740,0.0015,920,0.17,Horizontal Hz,9950,1800
